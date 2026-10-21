@@ -11,6 +11,16 @@
   <a href="mailto:zyy.rosel@gmail.com"><img src="https://img.shields.io/badge/Email_me-C97B86?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
 </p>
 
+<p align="center">
+  <a href="https://zyyrosel.github.io/zyra-portfolio/#pf-clinics"><img src="https://zyyrosel.github.io/zyra-portfolio/images/v2/01_clinic_launch_sop.webp" width="32%" alt="Clinic Launch SOP"></a>
+  <a href="https://zyyrosel.github.io/zyra-portfolio/#pf-automation"><img src="https://zyyrosel.github.io/zyra-portfolio/images/v2/02_ai_marketing_automation.webp" width="32%" alt="AI Marketing Automation"></a>
+  <a href="https://zyyrosel.github.io/zyra-portfolio/#pf-landing"><img src="https://zyyrosel.github.io/zyra-portfolio/images/v2/03_landing_page_build.webp" width="32%" alt="Landing Pages and Funnels"></a>
+</p>
+<p align="center">
+  <a href="https://zyyrosel.github.io/zyra-portfolio/samples/booked-calendar/"><img src="https://zyyrosel.github.io/zyra-portfolio/images/v2/sample_funnel_preview.webp" width="97%" alt="Live sample funnel"></a>
+</p>
+<p align="center"><b>👆 Click any image to open my full portfolio</b></p>
+
 ---
 
 ### What I do
